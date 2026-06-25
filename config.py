@@ -1,0 +1,14 @@
+BOT_TOKEN = "BU_YERGA_BOT_TOKEN"
+CHAT_ID = "BU_YERGA_CHAT_ID"
+
+PAIRS = [
+    "EURUSD",
+    "GBPUSD",
+    "USDJPY",
+    "USDCHF",
+    "USDCAD",
+    "AUDUSD",
+    "NZDUSD"
+]
+
+TIMEFRAME = "M15"
