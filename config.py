@@ -12,3 +12,4 @@ PAIRS = [
 ]
 
 TIMEFRAME = "M15"
+API_KEY = "d6516ae7d2fe48969352b441f7ba6e3d"
