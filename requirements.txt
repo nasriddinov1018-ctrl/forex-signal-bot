@@ -1,9 +1,1 @@
-python-telegram-bot==21.10
-MetaTrader5
-pandas
-numpy
-pandas-ta
-yfinance
-requests
-python-dotenv
-schedule
+
